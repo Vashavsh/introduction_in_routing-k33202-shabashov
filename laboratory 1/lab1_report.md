@@ -162,8 +162,8 @@ set name=SW02.L3.02.TEST
 ```
 4. Результаты пингов для проверки целостности локальной сети
 
-![](https://github.com/lob/main/lab1/Ping1.png "Проверка локальной сети и пингов с роутера")
-![](https://github.com/_a_d/blob/main/lab1/Ping2.png "Проверка пингов со свитча 2 уровня")
+![](https://github.com/Vashavsh/introduction_in_routing-k33202-shabashov/blob/main/laboratory%201/Ping1.png "Проверка локальной сети и пингов с роутера")
+![](https://github.com/Vashavsh/introduction_in_routing-k33202-shabashov/blob/main/laboratory%201/Ping2.png "Проверка пингов со свитча 2 уровня")
 
 **Вывод:**
 В ходе данной лабораторной работы были освоены методы работы с ContainerLab, была изучена работа VLAN, IP адресация и т.д.
