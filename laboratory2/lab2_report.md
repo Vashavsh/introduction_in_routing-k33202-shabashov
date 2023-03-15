@@ -2,7 +2,7 @@ Year: 2022/2023
 
 Group: K33202
 
-Author: Vasiliy 
+Author: Vasiliy Shabashov 
 
 Lab: Laboratory2 
 
@@ -75,11 +75,6 @@ topology:
 * Роутер MSK
 
 ```
-# oct/31/2022 20:10:23 by RouterOS 6.47.9
-# software id = 
-#
-#
-#
 /interface wireless security-profiles
 set [ find default=yes ] supplicant-identity=MikroTik
 /ip pool
@@ -103,11 +98,6 @@ set name=R01.MSK
 * Роутер FRT
 
 ```
-# oct/31/2022 20:09:30 by RouterOS 6.47.9
-# software id = 
-#
-#
-#
 /interface wireless security-profiles
 set [ find default=yes ] supplicant-identity=MikroTik
 /ip pool
@@ -131,11 +121,6 @@ set name=R01.FRT
 * Роутер BRL
 
 ```
-# oct/31/2022 20:07:14 by RouterOS 6.47.9
-# software id = 
-#
-#
-#
 /interface wireless security-profiles
 set [ find default=yes ] supplicant-identity=MikroTik
 /ip pool
@@ -159,11 +144,6 @@ set name=R01.BRL
 * PC1
 
 ```
-# oct/31/2022 20:05:44 by RouterOS 6.47.9
-# software id = 
-#
-#
-#
 /interface wireless security-profiles
 set [ find default=yes ] supplicant-identity=MikroTik
 /ip address
@@ -183,11 +163,6 @@ set name=PC1
 * PC2
 
 ```
-# oct/31/2022 20:05:10 by RouterOS 6.47.9
-# software id = 
-#
-#
-#
 /interface wireless security-profiles
 set [ find default=yes ] supplicant-identity=MikroTik
 /ip address
@@ -207,11 +182,6 @@ set name=PC2
 * PC3
 
 ```
-# oct/31/2022 20:02:24 by RouterOS 6.47.9
-# software id = 
-#
-#
-#
 /interface wireless security-profiles
 set [ find default=yes ] supplicant-identity=MikroTik
 /ip address
