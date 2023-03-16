@@ -80,7 +80,7 @@ topology:
 ```
 2. Схема связи
 
-![](https://github.com/introduction_in_routing-k33202-shabashov/Laboratory4/blob/main/lab4/Схема.png "Схема сети")
+![](https://github.com/Vashavsh/introduction_in_routing-k33202-shabashov/blob/main/laboratory4/Схема.png "схема")
 
 3. Тексты конфигураций для сетевых устройств
 
@@ -297,7 +297,7 @@ set name=R01.SVL
 
 4. Проверка связности между VRF
 
-![](https://github.com/introduction_in_routing-k33202-shabashov/Laboratory4/blob/main/lab4/Pictures/VRF.png "VRF")
+![](https://github.com/Vashavsh/introduction_in_routing-k33202-shabashov/blob/main/laboratory4/VRF.png "VRF")
 
 5. Настройка VPLS (конфигурации устройств)
 
@@ -456,8 +456,8 @@ set name=R01.SVL
 ```
 6. Проверка связности ПК.
 
-![](https://github.com/introduction_in_routing-k33202-shabashov/Laboratory4/blob/main/lab4/Пинг1.png "Пинг1")
-![](https://github.com/introduction_in_routing-k33202-shabashov/Laboratory4/blob/main/lab4/Пинг2.png "Пинг2")
-![](https://github.com/introduction_in_routing-k33202-shabashov/Laboratory4/blob/main/lab4/Пинг3.png "Пинг3")
+![](https://github.com/Vashavsh/introduction_in_routing-k33202-shabashov/Laboratory4/blob/main/lab4/Пинг1.png "Пинг1")
+![](https://github.com/Vashavsh/introduction_in_routing-k33202-shabashov/Laboratory4/blob/main/lab4/Пинг2.png "Пинг2")
+![](https://github.com/Vashavsh/introduction_in_routing-k33202-shabashov/Laboratory4/blob/main/lab4/Пинг3.png "Пинг3")
 
 **Вывод:** В ходе лабораторной работы мы создали файл конфигурации, на основе которого создали сеть. В сети мы настроили IP-адреса на портах всех устройств, а также были изучены протоколы BGP, MPLS, VPLS и L3VPN.
