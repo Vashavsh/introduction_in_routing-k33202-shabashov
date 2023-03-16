@@ -294,8 +294,8 @@ set name=PC1
 
 4. Результаты пингов между роутерами.
 
-![](htt "Таблица маршрутов")
+![](https://github.com/Vashavsh/introduction_in_routing-k33202-shabashov/blob/main/Laboratory3/Ping1.png "Таблица маршрутов")
 
-![](http"Таблица маршрутов")
+![](https://github.com/Vashavsh/introduction_in_routing-k33202-shabashov/blob/main/Laboratory3/Ping2.png "Таблица маршрутов")
 
 **Вывод:** 
