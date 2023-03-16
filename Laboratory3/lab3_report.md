@@ -299,3 +299,5 @@ set name=PC1
 ![](https://github.com/Vashavsh/introduction_in_routing-k33202-shabashov/blob/main/Laboratory3/Ping2.png "Таблица маршрутов")
 
 **Вывод:** 
+
+В результате выполнения лабораторной работы была развернута сеть и была изучена настройка протоколов OSPF и MPLS и механизмы организации EoMPLS.
